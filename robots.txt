@@ -1,0 +1,5 @@
+<html>
+ <body>
+  User-agent: * Sitemap: http://www.mytechnosys.com
+ </body>
+</html>
